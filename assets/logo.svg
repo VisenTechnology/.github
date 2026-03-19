@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bgMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38BDF8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#818CF8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="80" fill="url(#bgMain)"/>
+  <!-- V shape -->
+  <path d="M120 110 L200 290 L280 110" fill="none" stroke="white" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tech circuit lines -->
+  <circle cx="120" cy="110" r="8" fill="url(#accent)"/>
+  <circle cx="280" cy="110" r="8" fill="url(#accent)"/>
+  <circle cx="200" cy="290" r="8" fill="url(#accent)"/>
+  <!-- Horizontal accent lines -->
+  <line x1="95" y1="110" x2="75" y2="110" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <line x1="305" y1="110" x2="325" y2="110" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <!-- Dots at ends -->
+  <circle cx="75" cy="110" r="4" fill="url(#accent)"/>
+  <circle cx="325" cy="110" r="4" fill="url(#accent)"/>
+  <!-- Inner V glow -->
+  <path d="M145 140 L200 255 L255 140" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.4"/>
+</svg>
