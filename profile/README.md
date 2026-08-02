@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReitenTech/.github/main/assets/reiten-tech.png" alt="Reiten Tech" width="420"/>
+  <img src="https://raw.githubusercontent.com/ReitenTech/.github/main/assets/reiten-tech.jpeg" alt="Reiten Tech" width="420"/>
 </p>
 
 <h1 align="center">Reiten Tech</h1>
