@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DonbassTech/.github/main/assets/donbax-tech.png" alt="DonbaXTech" width="420"/>
+  <img src="https://raw.githubusercontent.com/ReitenTech/.github/main/assets/reiten-tech.png" alt="Reiten Tech" width="420"/>
 </p>
 
-<h1 align="center">DonbaXTech</h1>
+<h1 align="center">Reiten Tech</h1>
 
 <p align="center">
   <strong>Custom software, DevOps platforms, automation, and product engineering for modern businesses.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ukraine-Donbas%20roots-0057B7?style=flat-square" alt="Donbas roots">
+  <img src="https://img.shields.io/badge/Ukraine-Roots-0057B7?style=flat-square" alt="Roots">
   <img src="https://img.shields.io/badge/Founded-2025-purple?style=flat-square" alt="Founded">
   <img src="https://img.shields.io/badge/Team-3_Founders-green?style=flat-square" alt="Team">
 </p>
@@ -18,7 +18,7 @@
 
 ## Story
 
-**DonbaXTech** was founded by **Vitaliy Prymak**, **Mykyta Diadiunov**, and **Serhiy Kolodiazhnyi**.
+**Reiten Tech** was founded by **Vitaliy Prymak**, **Mykyta Diadiunov**, and **Serhiy Kolodiazhnyi**.
 
 We are a team of engineers that builds business solutions end-to-end: from product discovery and architecture to development, deployment, hosting, and support.
 
